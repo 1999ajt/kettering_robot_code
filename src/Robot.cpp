@@ -83,7 +83,7 @@ private:
 		}
 		/*/
 
-		if (autoNone) //cool
+		if (autoNone) //cool #2
 		{
 
 		}else if (autoForward)
